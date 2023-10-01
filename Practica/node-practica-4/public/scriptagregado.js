@@ -1,0 +1,1 @@
+alert("Alerta de ejemplo. Se ha podido enviar el script");
